@@ -10,6 +10,7 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ---
 
+<!--
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE (Cybersecurity & Blockchain)
@@ -17,9 +18,8 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 - 💻 Passionate about **Java, Full Stack Development & Flutter**
 - 🔐 Interested in **Cybersecurity, Networking & Cloud**
 - 🚀 Love building real-world applications
-- 📫 Reach me: **your-email@gmail.com**
-
----
+- 📫 Reach me: your-email@gmail.com
+-->
 
 ## 💻 Skills
 
