@@ -49,17 +49,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 </p>
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack |
-|----------|------------|
-| 🏥 **ArogyaMitra AI** | FastAPI, React, PostgreSQL, Groq AI |
-| ⚖️ **Outlawed** | Flutter, Firebase |
-| 🌾 **Ekta Krishi Kendra** | React, Node.js, MySQL |
-| 📱 **Flutter Applications** | Flutter, Firebase |
-
----
-
 
 ## 📈 Contribution Graph
 
@@ -77,6 +66,17 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 <img src="https://github-profile-trophy.vercel.app/?username=Anchal0610&theme=flat&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack |
+|----------|------------|
+| 🏥 **ArogyaMitra AI** | FastAPI, React, PostgreSQL, Groq AI |
+| ⚖️ **Outlawed** | Flutter, Firebase |
+| 🌾 **Ekta Krishi Kendra** | React, Node.js, MySQL |
+| 📱 **Flutter Applications** | Flutter, Firebase |
+
 ---
 
 ## 🐍 Contribution Snake
