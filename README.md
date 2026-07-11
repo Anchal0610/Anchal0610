@@ -42,7 +42,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -55,7 +54,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 </p>
 ---
 
-## 🔥 GitHub Streak
 
 ## 🔥 GitHub Streak
 
