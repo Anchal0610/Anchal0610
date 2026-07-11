@@ -70,8 +70,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 | Project | Tech Stack |
 |----------|------------|
 | ⚖️ **Outlawed (CLAT Platform)** | Flutter, Firebase, Dart |
