@@ -44,44 +44,44 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=default&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=default&hide_border=true"/>
 
 </p>
-
 ---
+
+## 🔥 GitHub Streak
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=default&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anchal0610&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anchal0610&theme=github-light&hide_border=true"/>
 
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anchal0610&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anchal0610&theme=flat&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -91,8 +91,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 <img src="https://raw.githubusercontent.com/Anchal0610/Anchal0610/output/github-contribution-grid-snake.svg"/>
 
 </p>
-
----
 
 ## 🌐 Connect With Me
 
