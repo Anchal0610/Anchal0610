@@ -70,13 +70,16 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Tech Stack |
 |----------|------------|
-| 🏥 **ArogyaMitra AI** | FastAPI, React, PostgreSQL, Groq AI |
-| ⚖️ **Outlawed** | Flutter, Firebase |
-| 🌾 **Ekta Krishi Kendra** | React, Node.js, MySQL |
-| 📱 **Flutter Applications** | Flutter, Firebase |
-
+| ⚖️ **Outlawed (CLAT Platform)** | Flutter, Firebase, Dart |
+| 🏥 **ArogyaMitra AI** | FastAPI, React, PostgreSQL, Groq AI, Spoonacular API |
+| 🌾 **Ekta Krishi Kendra** | React, Node.js, MySQL, REST API |
+| 🤖 **AI Resume Analyzer** | Python, Streamlit, LangChain, LLM |
+| 🌐 **Portfolio Website** | HTML, CSS, JavaScript |
+| 💻 **Java DSA Solutions** | Java, Data Structures & Algorithms |
 ---
 
 ## 🐍 Contribution Snake
