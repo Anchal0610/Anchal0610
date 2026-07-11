@@ -30,6 +30,24 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 </p>
 
 ---
+## 📊 GitHub Stats
+
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=default&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=default&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+---
 
 ## 🚀 Featured Projects
 
@@ -42,27 +60,6 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=default&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=default&hide_border=true"/>
-
-</p>
----
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=default&hide_border=true"/>
-
-</p>
----
 
 ## 📈 Contribution Graph
 
@@ -92,7 +89,7 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Anchal0610">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -116,7 +113,7 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 
 ## 📊 Coding Profiles
 
-<p align="center">
+<p align="left">
 
 <a href="https://leetcode.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
@@ -126,23 +123,11 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-</a>
 
 </p>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anchal0610&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
