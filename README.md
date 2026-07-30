@@ -32,22 +32,14 @@ Cybersecurity Enthusiast • Java Developer • Full Stack Developer
 ---
 ## 📊 GitHub Stats
 
-
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=default&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=Anchal0610&theme=default&hide_border=true" />
 </p>
 
-
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&theme=default&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&theme=default&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anchal0610&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal0610&layout=compact&hide_border=true" />
 </p>
----
 
 
 ## 📈 Contribution Graph
